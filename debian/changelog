@@ -1,0 +1,12 @@
+libdisplaycore-driver-sh1106 (1.0.1) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 29 Mar 2018 15:58:51 +0100
+
+libdisplaycore-driver-sh1106 (1.0.0) uecide; urgency=low
+
+  * Initial import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 29 Mar 2018 15:56:16 +0100
+
