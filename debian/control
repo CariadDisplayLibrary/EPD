@@ -7,10 +7,10 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
 Package: libdisplaycore-driver-epd
-Section: main
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: ePaper
 Depends: libdisplaycore-core
 Provides: EPD.h
 Description: ePaper driver for the 2.9" ePaper device from WaveShare
