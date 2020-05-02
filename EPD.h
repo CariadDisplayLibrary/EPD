@@ -24,9 +24,9 @@
 #define EPD_TERMINATE_FRAME_READ_WRITE                  0xFF
 
 #include <DSPI.h>
-#include <DisplayCore.h>
+#include <Cariad.h>
 
-class EPD : public DisplayCore {
+class EPD : public Cariad {
     private:
         DSPI *_spi;
         uint8_t _cs;
